@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Welcome! to Code! Hunting! Enjoy Coding!</h1>
-    <p>Become part of the team fill in the FORM </p>
+    <p>BECOME ONE OF US </p>
     <hr>
 
     <label for="user"><b>Username</b></label>
