@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome! to Code! Hunting! Enjoy Coding!</h1>
+    <h1>Welcome to code hunting! Enjoy Coding!</h1>
     <p>BECOME ONE OF US </p>
     <hr>
 
-    <label for="user"><b>Username</b></label>
+    <label for="user"><b>User</b></label>
     <input type="user" placeholder="Enter Username" name="user" id="user" required>
     <br>
 	
